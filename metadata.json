@@ -1,0 +1,6 @@
+{
+  "name": "愛は風と共に昇る",
+  "description": "手遊式 WeChat 仿真 AI 聊天與動態社交軟件，支持自定義 AI 人設、動態圈、以及 Groq 接口或內置 AI 模型對話。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
