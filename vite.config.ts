@@ -4,6 +4,7 @@ import path from 'path';
 import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
+  base: '/-/'
   return {
     plugins: [react(), tailwindcss()],
     resolve: {
@@ -20,4 +21,3 @@ export default defineConfig(() => {
     },
   };
 });
-base: '/-/'
